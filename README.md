@@ -4,5 +4,6 @@ Global gene expression analysis of a combined cuprizone/MOG-EAE model. RNA was i
 R code that reproduces expression array analysis and illustrations from:
 > Yilmaz EN, Albrecht S, Groll K, Thomas C, Wallhorn L, Herold M, Hucke S, Klotz L, Kuhlmann T. Influx of T cells into corpus callosum increases axonal injury, but does not change the course of remyelination in toxic demyelination. Glia. 2023 Apr;71(4):991-1001. doi: 10.1002/glia.24319. Epub 2022 Dec 13. PMID: 36511515.
 
+
 ![glia24319-fig-0004-m](https://github.com/ctho1/CUP_EAE/assets/35626339/98bed6c6-5d78-4c30-985e-e1fd93ab00b0)
 
